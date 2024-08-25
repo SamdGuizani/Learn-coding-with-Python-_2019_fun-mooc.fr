@@ -1,0 +1,216 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="092c8cb6-73df-4396-a62b-31ef66b1efa0" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="UpyLaB" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1QvQCX73JapcYnzakcRAUSzdqFr" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="com.intellij.ide.scratch.LRUPopupBuilder$1/New Scratch File" value="GitIgnore" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Samd\PycharmProjects\MOOC Apprendre Python\UpyLaB\Projet" />
+      <recent name="C:\Users\Samd\PycharmProjects\MOOC Apprendre Python\UpyLaB\Projet\Eval pairs" />
+      <recent name="C:\Users\Samd\PycharmProjects\MOOC Apprendre Python\UpyLaB\UpyLaB Module 05" />
+      <recent name="C:\Users\Samd\Mes documents\MOOC Python\" />
+      <recent name="C:\Users\Samd\Documents\MOOC Python" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Samd\PycharmProjects\MOOC Apprendre Python\UpyLaB\Projet" />
+      <recent name="C:\Users\Samd\PycharmProjects\MOOC Apprendre Python\UpyLaB\UpyLaB Module 04" />
+      <recent name="C:\Users\Samd\PycharmProjects\MOOC Apprendre Python\UpyLaB\UpyLab Module 03" />
+      <recent name="C:\Users\Samd\PycharmProjects\MOOC Apprendre Python\UpyLaB" />
+      <recent name="C:\Users\Samd\PycharmProjects\MOOC Apprendre Python\UpyLaB\UpyLaB Module 02" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python.Projet_Vasarely_v02 (1)">
+    <configuration name="Projet_Vasarely_v02 (1)" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="UpyLaB" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Projet Vasarely" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Projet Vasarely/Projet_Vasarely_v02.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Projet_Vasarely_v02" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="UpyLaB" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Projet" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Projet/Projet_Vasarely_v02.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="UpyLaB 6.10" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="UpyLaB" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/UpyLaB Module 06" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/UpyLaB Module 06/UpyLaB 6.10.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="UpyLaB 6.9" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="UpyLaB" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/UpyLaB Module 06" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/UpyLaB Module 06/UpyLaB 6.9.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="UpyLab 6.12" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="UpyLaB" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/UpyLaB Module 06" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/UpyLaB Module 06/UpyLab 6.12.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.Projet_Vasarely_v02 (1)" />
+        <item itemvalue="Python.Projet_Vasarely_v02" />
+        <item itemvalue="Python.UpyLab 6.12" />
+        <item itemvalue="Python.UpyLaB 6.10" />
+        <item itemvalue="Python.UpyLaB 6.9" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SpellCheckerSettings" BundledDictionaries="0" RuntimeDictionaries="0" Folders="2" Folder0="C:\Users\Samd\Downloads" Folder1="C:\Users\Samd\Downloads" CustomDictionaries="2" CustomDictionary0="C:\Users\Samd\Downloads\mots_avec_et_sans_accents.dic" CustomDictionary1="C:\Users\Samd\Downloads\mots.dic" Dictionaries="0" CorrectionsLimit="5" DefaultDictionary="project-level" UseSingleDictionary="true" />
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="092c8cb6-73df-4396-a62b-31ef66b1efa0" name="Default Changelist" comment="" />
+      <created>1568648462636</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1568648462636</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="1323" height="223" key="GridCell.Tab.0.bottom" timestamp="1576409874554">
+      <screen x="0" y="0" width="1366" height="736" />
+    </state>
+    <state width="1323" height="223" key="GridCell.Tab.0.bottom/0.0.1366.736@0.0.1366.736" timestamp="1576409874554" />
+    <state width="1323" height="223" key="GridCell.Tab.0.center" timestamp="1576409874554">
+      <screen x="0" y="0" width="1366" height="736" />
+    </state>
+    <state width="1323" height="223" key="GridCell.Tab.0.center/0.0.1366.736@0.0.1366.736" timestamp="1576409874554" />
+    <state width="1323" height="223" key="GridCell.Tab.0.left" timestamp="1576409874554">
+      <screen x="0" y="0" width="1366" height="736" />
+    </state>
+    <state width="1323" height="223" key="GridCell.Tab.0.left/0.0.1366.736@0.0.1366.736" timestamp="1576409874554" />
+    <state width="1323" height="223" key="GridCell.Tab.0.right" timestamp="1576409874554">
+      <screen x="0" y="0" width="1366" height="736" />
+    </state>
+    <state width="1323" height="223" key="GridCell.Tab.0.right/0.0.1366.736@0.0.1366.736" timestamp="1576409874554" />
+    <state x="184" y="10" key="SettingsEditor" timestamp="1576359290088">
+      <screen x="0" y="0" width="1366" height="736" />
+    </state>
+    <state x="184" y="10" key="SettingsEditor/0.0.1366.736@0.0.1366.736" timestamp="1576359290088" />
+    <state x="379" y="191" key="com.intellij.ide.util.TipDialog" timestamp="1577485079442">
+      <screen x="0" y="0" width="1366" height="736" />
+    </state>
+    <state x="379" y="191" key="com.intellij.ide.util.TipDialog/0.0.1366.736/1366.0.1440.870@0.0.1366.736" timestamp="1577485079442" />
+  </component>
+</project>
